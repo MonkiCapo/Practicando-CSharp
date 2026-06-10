@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dghd5sea6Cw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noxie-PC\\Desktop\\Practicando-CSharp\\PracticandoCSharp\\src\\LeagueChampions.WebApi\\LeagueChampions.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noxie-PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Noxie-PC\\.nuget\\packages\\microsoft.extensions.http\\10.0.9\\microsoft.extensions.http.10.0.9.nupkg.sha512",
+    "C:\\Users\\Noxie-PC\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Http no se eliminará. Considere la posibilidad de quitar este paquete de las dependencias, ya que es probable que no sea necesario.",
+      "projectPath": "C:\\Users\\Noxie-PC\\Desktop\\Practicando-CSharp\\PracticandoCSharp\\src\\LeagueChampions.WebApi\\LeagueChampions.WebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Noxie-PC\\Desktop\\Practicando-CSharp\\PracticandoCSharp\\src\\LeagueChampions.WebApi\\LeagueChampions.WebApi.csproj",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
