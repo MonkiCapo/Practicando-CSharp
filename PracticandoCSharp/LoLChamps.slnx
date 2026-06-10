@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/LeagueChampions.Core/LeagueChampions.Core.csproj" />
-    <Project Path="src/LeagueChampions.Data/LeagueChampions.Data.csproj" />
-    <Project Path="src/LeagueChampions.Services/LeagueChampions.Services.csproj" />
-    <Project Path="src/LeagueChampions.WebApi/LeagueChampions.WebApi.csproj" />
-  </Folder>
-</Solution>

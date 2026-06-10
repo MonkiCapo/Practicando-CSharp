@@ -1,0 +1,16 @@
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/bin/Debug/net10.0/LeagueChampions.Data.deps.json
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/bin/Debug/net10.0/LeagueChampions.Data.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/bin/Debug/net10.0/LeagueChampions.Data.pdb
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/bin/Debug/net10.0/LeagueChampions.Core.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/bin/Debug/net10.0/LeagueChampions.Core.pdb
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.csproj.AssemblyReference.cache
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.sourcelink.json
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueCh.27660E0A.Up2Date
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/refint/LeagueChampions.Data.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/LeagueChampions.Data.pdb
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Data/obj/Debug/net10.0/ref/LeagueChampions.Data.dll

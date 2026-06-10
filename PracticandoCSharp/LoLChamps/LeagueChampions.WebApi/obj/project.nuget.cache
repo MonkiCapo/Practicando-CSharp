@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eur8xKtXWU=",
+  "success": true,
+  "projectFilePath": "/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.WebApi/LeagueChampions.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/et12alumno/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/swashbuckle.aspnetcore/10.2.1/swashbuckle.aspnetcore.10.2.1.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.1/swashbuckle.aspnetcore.swagger.10.2.1.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.1/swashbuckle.aspnetcore.swaggergen.10.2.1.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.1/swashbuckle.aspnetcore.swaggerui.10.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

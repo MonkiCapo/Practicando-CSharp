@@ -1,0 +1,12 @@
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/bin/Debug/net10.0/LeagueChampions.Core.deps.json
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/bin/Debug/net10.0/LeagueChampions.Core.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/bin/Debug/net10.0/LeagueChampions.Core.pdb
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.sourcelink.json
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/refint/LeagueChampions.Core.dll
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/LeagueChampions.Core.pdb
+/home/et12alumno/Escritorio/Practicando-CSharp/PracticandoCSharp/LoLChamps/LeagueChampions.Core/obj/Debug/net10.0/ref/LeagueChampions.Core.dll

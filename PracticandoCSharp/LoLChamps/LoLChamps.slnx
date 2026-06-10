@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LeagueChampions.Core/LeagueChampions.Core.csproj" />
+  <Project Path="LeagueChampions.Data/LeagueChampions.Data.csproj" />
+  <Project Path="LeagueChampions.Services/LeagueChampions.Services.csproj" />
+  <Project Path="LeagueChampions.WebApi/LeagueChampions.WebApi.csproj" />
+</Solution>
